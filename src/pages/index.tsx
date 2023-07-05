@@ -20,6 +20,7 @@ export default function Home() {
           ios-src="/test.usdz"
           auto-rotate
           camera-controls
+          // @ts-ignore
           ar
           ar-status="not-presenting"
           ar-modes="webxr scene-viewer quick-look"
